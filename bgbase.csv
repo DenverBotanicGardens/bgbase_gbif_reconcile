@@ -1,0 +1,738 @@
+FAMILY,SCIENTIFIC_NAME,SOURCE
+AMARYLLIDACEAE,Allium cernuum,Fowler
+AMARYLLIDACEAE,Allium geyeri,JA DB
+AMARYLLIDACEAE,Allium geyeri var. geyeri,"JA DB, Fowler"
+AMARYLLIDACEAE,Allium geyeri var. tenerum,JA DB
+APIACEAE,Aletes humilis,"CO endemic, rare, obligate, JA DB, Fowler"
+APIACEAE,Angelica grayi,"JA DB, Fowler"
+APIACEAE,Bupleurum americanum,"rare, obligate alpine, JA DB, Fowler"
+APIACEAE,Conioselinum scopulorum,"JA DB, Fowler"
+APIACEAE,Cymopterus lemmonii,"JA DB, Fowler"
+APIACEAE,Ligusticum porteri,JA DB
+APIACEAE,Ligusticum porteri var. porteri,Fowler
+APIACEAE,Ligusticum tenuifolium,"JA DB, Fowler"
+APIACEAE,Oreoxis alpina,"JA DB, Fowler"
+APIACEAE,Oreoxis bakeri,"obligate alpine, JA DB, Fowler"
+APIACEAE,Osmorhiza depauperata,JA DB
+APIACEAE,Oxypolis fendleri,"JA DB, Fowler"
+APIACEAE,Podistera eastwoodiae,"JA DB, Fowler"
+ASPARAGACEAE,Maianthemum racemosum ssp. amplexicaule,Fowler
+ASPARAGACEAE,Maianthemum stellatum,JA DB
+ASPLENIACEAE,Asplenium viride,"JA DB, Fowler"
+ASPLENIACEAE,Athyrium americanum,"JA DB, Fowler"
+ASPLENIACEAE,Cystopteris fragilis,"JA DB, Fowler"
+ASPLENIACEAE,Cystopteris reevesiana,Fowler
+ASPLENIACEAE,Woodsia oregana ssp. cathcartiana,Fowler
+ASTERACEAE,Achillea millefolium,"JA DB, Fowler"
+ASTERACEAE,Agoseris aurantiaca,"JA DB, Fowler"
+ASTERACEAE,Agoseris aurantiaca var. aurantiaca,JA DB
+ASTERACEAE,Agoseris glauca,JA DB
+ASTERACEAE,Agoseris glauca var. dasycephala,"JA DB, Fowler"
+ASTERACEAE,Agoseris glauca var. glauca,JA DB
+ASTERACEAE,Agoseris parviflora,"JA DB, Fowler"
+ASTERACEAE,Anaphalis margaritacea,JA DB
+ASTERACEAE,Antennaria anaphaloides,"JA DB, Fowler"
+ASTERACEAE,Antennaria corymbosa,Fowler
+ASTERACEAE,Antennaria marginata,Fowler
+ASTERACEAE,Antennaria media,"JA DB, Fowler"
+ASTERACEAE,Antennaria microphylla,"JA DB, Fowler"
+ASTERACEAE,Antennaria parvifolia,Fowler
+ASTERACEAE,Antennaria rosea,"JA DB, Fowler"
+ASTERACEAE,Antennaria umbrinella,"JA DB, Fowler"
+ASTERACEAE,Arnica angustifolia ssp. tomentosa,Fowler
+ASTERACEAE,Arnica cordifolia,"JA DB, Fowler"
+ASTERACEAE,Arnica gracilis,Fowler
+ASTERACEAE,Arnica latifolia,"JA DB, Fowler"
+ASTERACEAE,Arnica mollis,"JA DB, Fowler"
+ASTERACEAE,Arnica parryi,"JA DB, Fowler"
+ASTERACEAE,Arnica rydbergii,"JA DB, Fowler"
+ASTERACEAE,Artemisia campestris,JA DB
+ASTERACEAE,Artemisia campestris ssp. pacifica,Fowler
+ASTERACEAE,Artemisia campestris var. purshii,JA DB
+ASTERACEAE,Artemisia frigida,"JA DB, Fowler"
+ASTERACEAE,Artemisia laciniata ssp. parryi,"rare, JADB, Fowler"
+ASTERACEAE,Artemisia ludoviciana ssp. ludoviciana,Fowler
+ASTERACEAE,Artemisia michauxiana,"JA DB, Fowler"
+ASTERACEAE,Artemisia norvegica ssp. saxatilis,"JA DB, Fowler"
+ASTERACEAE,Artemisia pattersonii,"rare, JA DB, Fowler"
+ASTERACEAE,Artemisia scopulorum,"JA DB, Fowler"
+ASTERACEAE,Artemisia tridentata,JA DB
+ASTERACEAE,Askellia pygmaea,"JA DB, Fowler"
+ASTERACEAE,Aster alpinus var. vierhapperi,"rare, JA DB"
+ASTERACEAE,Brickellia grandiflora,JA DB
+ASTERACEAE,Chaenactis douglasii var. alpina,"JA DB, Fowler"
+ASTERACEAE,Chrysothamnus viscidiflorus,JA DB
+ASTERACEAE,Chrysothamnus viscidiflorus ssp. viscidiflorus,JA DB
+ASTERACEAE,Cirsium americanum,JA 2022
+ASTERACEAE,Cirsium culebraensis,JA DB
+ASTERACEAE,Cirsium funkiae,JA DB
+ASTERACEAE,Cirsium griseum var. harringtonii,"CO endemic, JA DB"
+ASTERACEAE,Cirsium hesperium,"endemic, JA 2022"
+ASTERACEAE,Cirsium parryi,"JA DB, Fowler"
+ASTERACEAE,Cirsium scopulorum,"CO endemic, JA DB"
+ASTERACEAE,Cirsium tioganum,JA DB
+ASTERACEAE,Crepis runcinata,JA DB
+ASTERACEAE,Crepis runcinata ssp. runcinata,"JA DB, Fowler"
+ASTERACEAE,Dieteria bigelovii var. bigelovii,Fowler
+ASTERACEAE,Dieteria canescens,JA DB
+ASTERACEAE,Ericameria discoidea,"Fowler, JA DB"
+ASTERACEAE,Ericameria parryi,JA DB
+ASTERACEAE,Erigeron acris,JA DB
+ASTERACEAE,Erigeron compositus,"JA DB, Fowler"
+ASTERACEAE,Erigeron coulteri,"JA DB, Fowler"
+ASTERACEAE,Erigeron elatior,"JA DB, Fowler"
+ASTERACEAE,Erigeron eximius,"JA DB, Fowler"
+ASTERACEAE,Erigeron flagellaris,JA DB
+ASTERACEAE,Erigeron formosissimus,JA DB
+ASTERACEAE,Erigeron formosissimus var. formosissimus,Fowler
+ASTERACEAE,Erigeron formosissimus var. viscidus,Fowler
+ASTERACEAE,Erigeron glabellus,JA DB
+ASTERACEAE,Erigeron glacialis,JA DB
+ASTERACEAE,Erigeron glacialis var. glacialis,Fowler
+ASTERACEAE,Erigeron grandiflorus,"JA DB, Fowler"
+ASTERACEAE,Erigeron humilis,"rare, obligate, JA DB, Fowler"
+ASTERACEAE,Erigeron lanatus,"rare, obligate alpine, JA DB, Fowler"
+ASTERACEAE,Erigeron leiomerus,"JA DB, Fowler"
+ASTERACEAE,Erigeron melanocephalus,"JA DB, Fowler"
+ASTERACEAE,Erigeron nivalis,Fowler
+ASTERACEAE,Erigeron pinnatisectus,"JA DB, Fowler"
+ASTERACEAE,Erigeron speciosus,JA DB
+ASTERACEAE,Erigeron subtrinervis,"JA DB, Fowler"
+ASTERACEAE,Erigeron ursinus,"JA DB, Fowler"
+ASTERACEAE,Erigeron vagus,"JA DB, Fowler"
+ASTERACEAE,Erigeron vetensis,"JA DB, Fowler"
+ASTERACEAE,Erigeron vreelandii,JA DB
+ASTERACEAE,Helianthella parryi,"JA DB, Fowler"
+ASTERACEAE,Helianthella quinquenervis,"JA DB, Fowler"
+ASTERACEAE,Heterotheca fulcrata,Fowler
+ASTERACEAE,Heterotheca pumila,"JA DB, Fowler"
+ASTERACEAE,Hieracium triste,"JA DB, Fowler"
+ASTERACEAE,Hymenoxys brandegeei,"JA DB, Fowler"
+ASTERACEAE,Hymenoxys grandiflora,"JA DB, Fowler"
+ASTERACEAE,Hymenoxys hoopesii,Fowler
+ASTERACEAE,Oreochrysum parryi,"JA DB, Fowler"
+ASTERACEAE,Packera cana,"JA DB, Fowler"
+ASTERACEAE,Packera crocata,"JA DB, Fowler"
+ASTERACEAE,Packera dimorphophylla var. dimorphophylla,Fowler
+ASTERACEAE,Packera fendleri, 
+ASTERACEAE,Packera porteri,"CO endemic, JA DB, Fowler"
+ASTERACEAE,Packera saxosa,JA 2022
+ASTERACEAE,Packera streptanthifolia,Fowler
+ASTERACEAE,Packera thurberi,Fowler
+ASTERACEAE,Packera werneriifolia,"JA DB, Fowler"
+ASTERACEAE,Pyrrocoma clementis var. clementis,"JA DB, Fowler"
+ASTERACEAE,Pyrrocoma crocea,JA DB
+ASTERACEAE,Pyrrocoma uniflora var. uniflora,"JA DB, Fowler"
+ASTERACEAE,Saussurea weberi,"rare, JA DB, Fowler"
+ASTERACEAE,Senecio amplectens,JA DB
+ASTERACEAE,Senecio amplectens var. amplectens,"JA DB, Fowler"
+ASTERACEAE,Senecio amplectens var. holmii,"JA DB, Fowler"
+ASTERACEAE,Senecio atratus,"JA DB, Fowler"
+ASTERACEAE,Senecio bigelovii var. hallii,"JA DB, Fowler"
+ASTERACEAE,Senecio crassulus,"JA DB, Fowler"
+ASTERACEAE,Senecio fremontii var. blitoides,"JA DB, Fowler"
+ASTERACEAE,Senecio integerrimus,JA DB
+ASTERACEAE,Senecio integerrimus var. exaltatus,Fowler
+ASTERACEAE,Senecio pudicus,"JA DB, Fowler"
+ASTERACEAE,Senecio soldanella,"JA DB, Fowler"
+ASTERACEAE,Senecio taraxacoides,"JA DB, Fowler"
+ASTERACEAE,Senecio triangularis,"JA DB, Fowler"
+ASTERACEAE,Senecio wootonii,Fowler
+ASTERACEAE,Solidago multiradiata,JA DB
+ASTERACEAE,Solidago nana,Fowler
+ASTERACEAE,Solidago simplex var. simplex,"JA DB, Fowler"
+ASTERACEAE,Symphyotrichum foliaceum,JA DB
+ASTERACEAE,Symphyotrichum foliaceum var. apricum,"JA DB, Fowler"
+ASTERACEAE,Symphyotrichum foliaceum var. parryi,Fowler
+ASTERACEAE,Taraxacum ceratophorum,Fowler
+ASTERACEAE,Taraxacum eriophorum,JA DB
+ASTERACEAE,Taraxacum officinale,Fowler
+ASTERACEAE,Taraxacum scopulorum,"JA DB, Fowler"
+ASTERACEAE,Tetraneuris acaulis,JA DB
+ASTERACEAE,Tetraneuris acaulis var. caespitosa,"JA DB, Fowler"
+ASTERACEAE,Tonestus lyallii,"rare, JA DB, Fowler"
+ASTERACEAE,Tonestus pygmaeus,"JA DB, Fowler"
+ASTERACEAE,Townsendia eximia,Fowler
+ASTERACEAE,Townsendia leptotes,"JA DB, Fowler"
+ASTERACEAE,Townsendia rothrockii,"CO endemic, rare, JA DB, Fowler"
+ASTERACEAE,Tripleurospermum inodorum,"Fowler, introduced, invasive"
+ASTERACEAE,Xanthisma coloradoense,"rare, JA DB, Fowler"
+BETULACEAE,Betula glandulosa,"JA DB, Fowler"
+BORAGINACEAE,Eritrichium argenteum,"JA DB, Fowler"
+BORAGINACEAE,Hydrophyllum fendleri var. fendleri,Fowler
+BORAGINACEAE,Mertensia bakeri,Flora
+BORAGINACEAE,Mertensia cana,"endemic, JA 2022"
+BORAGINACEAE,Mertensia ciliata,JA DB
+BORAGINACEAE,Mertensia ciliata var. ciliata,Fowler
+BORAGINACEAE,Mertensia franciscana,Fowler
+BORAGINACEAE,Mertensia lanceolata,JA DB
+BORAGINACEAE,Mertensia lanceolata var. coriacea,NSE
+BORAGINACEAE,Mertensia ovata,JA 2022
+BORAGINACEAE,Mertensia parvifolia,JA 2022
+BORAGINACEAE,Mertensia tweedyi,"JA DB, Fowler"
+BORAGINACEAE,Phacelia bakeri,"JA DB, Fowler"
+BORAGINACEAE,Phacelia glandulifera,Fowler
+BORAGINACEAE,Phacelia glandulosa var. glandulosa,Fowler
+BORAGINACEAE,Phacelia hastata var. hastata,Fowler
+BORAGINACEAE,Phacelia heterophylla,JA DB
+BORAGINACEAE,Phacelia sericea,JA DB
+BORAGINACEAE,Phacelia sericea ssp. ciliosa,Fowler
+BORAGINACEAE,Phacelia sericea ssp. sericea,"JA DB, Fowler"
+BRASSICACEAE,Boechera drepanoloba,"obligate alpine, JA DB, Fowler"
+BRASSICACEAE,Boechera grahamii,Fowler
+BRASSICACEAE,Boechera languida,Fowler
+BRASSICACEAE,Boechera lemmonii,"obligate alpine, JA DB, Fowler"
+BRASSICACEAE,Boechera oxylobula,"rare, endemic, JA DB"
+BRASSICACEAE,Boechera spatifolia,Fowler
+BRASSICACEAE,Boechera stricta,"JA DB, Fowler"
+BRASSICACEAE,Braya glabella ssp. glabella,"obligate alpine, rare, JA DB, Fowler"
+BRASSICACEAE,Braya humilis,Fowler
+BRASSICACEAE,Braya humilis ssp. humilis,"rare, JA DB"
+BRASSICACEAE,Cardamine cordifolia,"JA DB, Fowler"
+BRASSICACEAE,Cardamine oligosperma,Fowler
+BRASSICACEAE,Descurainia incana,Fowler
+BRASSICACEAE,Descurainia kenheilii,"CO endemic, rare, obligate, JA DB"
+BRASSICACEAE,Draba albertina,"JA DB, Fowler"
+BRASSICACEAE,Draba aurea,"JA DB, Fowler"
+BRASSICACEAE,Draba cana,"JA DB, Fowler"
+BRASSICACEAE,Draba crassa,"rare, JA DB, Fowler"
+BRASSICACEAE,Draba crassifolia,"JA DB, Fowler"
+BRASSICACEAE,Draba exunguiculata,"CO endemic, rare, obligate, JA DB"
+BRASSICACEAE,Draba fladnizensis,"rare, JA DB, Fowler"
+BRASSICACEAE,Draba globosa,"rare, obligate, JA DB, Fowler"
+BRASSICACEAE,Draba graminea,"CO endemic, rare, obligate, JA DB, Fowler"
+BRASSICACEAE,Draba grayana,"CO endemic, rare, obligate, JA DB, Fowler"
+BRASSICACEAE,Draba helleriana,"JA DB, Fowler"
+BRASSICACEAE,Draba incerta,"obligate alpine, JA DB"
+BRASSICACEAE,Draba lonchocarpa,"JA DB, Fowler"
+BRASSICACEAE,Draba malpighiacea,"endemic, rare, JA DB, Fowler"
+BRASSICACEAE,Draba oligosperma,"rare, JA DB, Fowler"
+BRASSICACEAE,Draba porsildii,Fowler
+BRASSICACEAE,Draba smithii,"CO endemic, rare, JA DB, Fowler"
+BRASSICACEAE,Draba spectabilis,"JA DB, Fowler"
+BRASSICACEAE,Draba streptobrachia,"CO endemic, rare, JA DB, Fowler"
+BRASSICACEAE,Draba streptocarpa,"JA DB, Fowler"
+BRASSICACEAE,Draba ventosa,"rare, obligate alpine, JA DB, Fowler"
+BRASSICACEAE,Draba weberi,"CO endemic, rare, JA DB"
+BRASSICACEAE,Erysimum capitatum,JA DB
+BRASSICACEAE,Erysimum capitatum var. purshii,Fowler
+BRASSICACEAE,Eutrema penlandii,"CO endemic, rare, obligate alpine, JA DB"
+BRASSICACEAE,Noccaea fendleri ssp. glauca,"JA DB, Fowler"
+BRASSICACEAE,Physaria alpina,"CO endemic, rare, JA DB, Fowler"
+BRASSICACEAE,Physaria scrotiformis,"CO endemic, rare, JA DB"
+BRASSICACEAE,Rorippa alpina,"JA DB, Fowler"
+BRASSICACEAE,Rorippa curvipes,Fowler
+BRASSICACEAE,Smelowskia americana,"JA DB, Fowler"
+CALLITRICHACEAE,Callitriche palustris,JA DB
+CAMPANULACEAE,Campanula parryi var. parryi,"JA DB, Fowler"
+CAMPANULACEAE,Campanula rotundifolia,"JA DB, Fowler"
+CAMPANULACEAE,Campanula uniflora,"obligate, JA DB, Fowler"
+CAPRIFOLIACEAE,Linnaea borealis ssp. longiflora,"JA DB, Fowler"
+CAPRIFOLIACEAE,Lonicera involucrata,JA DB
+CAPRIFOLIACEAE,Lonicera involucrata var. involucrata,Fowler
+CAPRIFOLIACEAE,Valeriana acutiloba,JA DB
+CAPRIFOLIACEAE,Valeriana acutiloba var. acutiloba,Fowler
+CAPRIFOLIACEAE,Valeriana acutiloba var. pubicarpa,Fowler
+CAPRIFOLIACEAE,Valeriana edulis,JA DB
+CAPRIFOLIACEAE,Valeriana edulis var. edulis,Fowler
+CAPRIFOLIACEAE,Valeriana occidentalis,Fowler
+CARYOPHYLLACEAE,Arenaria lanuginosa var. saxosa,"JA DB, Fowler"
+CARYOPHYLLACEAE,Cerastium arvense ssp. strictum,"JA DB, Fowler"
+CARYOPHYLLACEAE,Cerastium beeringianum,"JA DB, Fowler"
+CARYOPHYLLACEAE,Cherleria obtusiloba,"JA DB, Fowler"
+CARYOPHYLLACEAE,Eremogone congesta,JA DB
+CARYOPHYLLACEAE,Eremogone congesta var. congesta,"JA DB, Fowler"
+CARYOPHYLLACEAE,Eremogone congesta var. lithophila,JA DB
+CARYOPHYLLACEAE,Eremogone fendleri,"JA DB, Fowler"
+CARYOPHYLLACEAE,Paronychia pulvinata,"JA DB, Fowler"
+CARYOPHYLLACEAE,Sabulina macrantha,"rare, JA DB, Fowler"
+CARYOPHYLLACEAE,Sabulina rubella,"JA DB, Fowler"
+CARYOPHYLLACEAE,Sabulina stricta,"rare, JA DB, Fowler"
+CARYOPHYLLACEAE,Sagina caespitosa,"JA DB, Fowler"
+CARYOPHYLLACEAE,Sagina saginoides,"JA DB, Fowler"
+CARYOPHYLLACEAE,Silene acaulis,"JA DB, Fowler"
+CARYOPHYLLACEAE,Silene drummondii,JA DB
+CARYOPHYLLACEAE,Silene drummondii var. drummondii,Fowler
+CARYOPHYLLACEAE,Silene drummondii var. striata,"JA DB, Fowler"
+CARYOPHYLLACEAE,Silene hitchguirei,"JA DB, Fowler"
+CARYOPHYLLACEAE,Silene kingii,Fowler
+CARYOPHYLLACEAE,Silene scouleri,JA DB
+CARYOPHYLLACEAE,Silene scouleri ssp. hallii,Fowler
+CARYOPHYLLACEAE,Silene uralensis ssp. uralensis,"JA DB, Fowler"
+CARYOPHYLLACEAE,Stellaria calycantha,"JA DB, Fowler"
+CARYOPHYLLACEAE,Stellaria irrigua,"rare, JA DB, Fowler"
+CARYOPHYLLACEAE,Stellaria longipes,JA DB
+CARYOPHYLLACEAE,Stellaria longipes ssp. longipes,Fowler
+CARYOPHYLLACEAE,Stellaria sanjuanensis,"rare, JA 2022"
+CELASTRACEAE,Parnassia fimbriata,"JA DB, Fowler"
+CELASTRACEAE,Parnassia kotzebuei,"rare, JA DB, Fowler"
+CHENOPODIACEAE,Blitum capitatum ssp. capitatum,Fowler
+CHENOPODIACEAE,Chenopodium atrovirens,"JA DB, Fowler"
+CHENOPODIACEAE,Chenopodium pratericola,Fowler
+CRASSULACEAE,Rhodiola integrifolia,JA DB
+CRASSULACEAE,Rhodiola integrifolia ssp. integrifolia,Fowler
+CRASSULACEAE,Rhodiola rhodantha,"JA DB, Fowler"
+CRASSULACEAE,Sedum lanceolatum,JA DB
+CRASSULACEAE,Sedum lanceolatum var. lanceolatum,Fowler
+CUPRESSACEAE,Juniperus communis var. depressa,"JA DB, Fowler"
+CYPERACEAE,Carex albonigra,"JA DB, Fowler"
+CYPERACEAE,Carex aquatilis,JA DB
+CYPERACEAE,Carex aquatilis var. aquatilis,Fowler
+CYPERACEAE,Carex arapahoensis,"JA DB, Fowler"
+CYPERACEAE,Carex atrosquama,"JA DB, Fowler"
+CYPERACEAE,Carex aurea,"JA DB, Fowler"
+CYPERACEAE,Carex bella,"JA DB, Fowler"
+CYPERACEAE,Carex borealipolaris,"obligate, JA DB, Fowler"
+CYPERACEAE,Carex brunnescens ssp. brunnescens,Fowler
+CYPERACEAE,Carex canescens ssp. canescens,"JA DB, Fowler"
+CYPERACEAE,Carex capillaris,"JA DB, Fowler"
+CYPERACEAE,Carex capitata,"rare, JA DB, Fowler"
+CYPERACEAE,Carex chalciolepis,"JA DB, Fowler"
+CYPERACEAE,Carex deflexa var. boottii,JA DB
+CYPERACEAE,Carex ebenea,"JA DB, Fowler"
+CYPERACEAE,Carex elynoides,"JA DB, Fowler"
+CYPERACEAE,Carex engelmannii,"JA DB, Fowler"
+CYPERACEAE,Carex fuliginosa,"JA DB, Fowler"
+CYPERACEAE,Carex geyeri,"JA DB, Fowler"
+CYPERACEAE,Carex gynocrates,"JA DB, Fowler"
+CYPERACEAE,Carex haydeniana,"JA DB, Fowler"
+CYPERACEAE,Carex heteroneura,JA DB
+CYPERACEAE,Carex heteroneura var. epapillosa,"JA DB, Fowler"
+CYPERACEAE,Carex illota,"JA DB, Fowler"
+CYPERACEAE,Carex incurviformis,"obligate, JA DB, Fowler"
+CYPERACEAE,Carex jonesii,"JA DB, Fowler"
+CYPERACEAE,Carex lachenalii,"JA DB, Fowler"
+CYPERACEAE,Carex limosa,"rare, JA DB"
+CYPERACEAE,Carex macloviana,"JA DB, Fowler"
+CYPERACEAE,Carex magellanica ssp. irrigua,Fowler
+CYPERACEAE,Carex microglochin,"rare, JA DB, Fowler"
+CYPERACEAE,Carex micropoda,"JA DB, Fowler"
+CYPERACEAE,Carex microptera,"JA DB, Fowler"
+CYPERACEAE,Carex myosuroides,"JA DB, Fowler"
+CYPERACEAE,Carex nardina,"JA DB, Fowler"
+CYPERACEAE,Carex nelsonii,"JA DB, Fowler"
+CYPERACEAE,Carex nigricans,"JA DB, Fowler"
+CYPERACEAE,Carex norvegica,"rare, JA DB"
+CYPERACEAE,Carex nova,"JA DB, Fowler"
+CYPERACEAE,Carex obtusata,"JA DB, Fowler"
+CYPERACEAE,Carex pachystachya,Fowler
+CYPERACEAE,Carex paysonis,JA DB
+CYPERACEAE,Carex pelocarpa,"JA DB, Fowler"
+CYPERACEAE,Carex perglobosa,"rare, JA DB, Fowler"
+CYPERACEAE,Carex phaeocephala,"JA DB, Fowler"
+CYPERACEAE,Carex praeceptorum,"JA DB, Fowler"
+CYPERACEAE,Carex praticola,Fowler
+CYPERACEAE,Carex rossii,"JA DB, Fowler"
+CYPERACEAE,Carex rupestris,"JA DB, Fowler"
+CYPERACEAE,Carex saxatilis,"JA DB, Fowler"
+CYPERACEAE,Carex scirpoidea,"rare, JA DB"
+CYPERACEAE,Carex scirpoidea ssp. pseudoscirpoidea,"JA DB, Fowler"
+CYPERACEAE,Carex scirpoidea var. scirpoidea,JA DB
+CYPERACEAE,Carex scopulorum,"JA DB, Fowler"
+CYPERACEAE,Carex siccata,"JA DB, Fowler"
+CYPERACEAE,Carex simpliciuscula,"JA DB, Fowler"
+CYPERACEAE,Carex stenoptila,"rare, JA DB, Fowler"
+CYPERACEAE,Carex stevenii,"JA DB, Fowler"
+CYPERACEAE,Carex tahoensis,JA DB
+CYPERACEAE,Carex utriculata,Fowler
+CYPERACEAE,Carex vernacula,"JA DB, Fowler"
+CYPERACEAE,Eleocharis quinqueflora,"JA DB, Fowler"
+CYPERACEAE,Eriophorum angustifolium,JA DB
+CYPERACEAE,Eriophorum angustifolium ssp. angustifolium,Fowler
+CYPERACEAE,Eriophorum chamissonis,"rare, JA DB"
+CYPERACEAE,Eriophorum gracile,"rare, JA DB"
+CYPERACEAE,Eriophorum scheuchzeri,"Pojar & MacKinnon, JA DB, Fowler"
+ELAEAGNACEAE,Shepherdia canadensis,JA DB
+EQUISETACEAE,Equisetum arvense,Fowler
+EQUISETACEAE,Equisetum laevigatum,Fowler
+ERICACEAE,Arctostaphylos uva-ursi,"JA DB, Fowler"
+ERICACEAE,Gaultheria humifusa,"JA DB, Fowler"
+ERICACEAE,Kalmia microphylla,"JA DB, Fowler"
+ERICACEAE,Moneses uniflora,"JA DB, Fowler"
+ERICACEAE,Orthilia secunda,JA DB
+ERICACEAE,Pyrola minor,JA DB
+ERICACEAE,Rhododendron albiflorum,"rare, JA DB"
+ERICACEAE,Vaccinium cespitosum,"JA DB, Fowler"
+ERICACEAE,Vaccinium myrtillus,"JA DB, Fowler"
+ERICACEAE,Vaccinium scoparium,"JA DB, Fowler"
+FABACEAE,Astragalus alpinus,JA DB
+FABACEAE,Astragalus alpinus var. alpinus,Fowler
+FABACEAE,Astragalus australis,JA DB
+FABACEAE,Astragalus australis var. glabriusculus,Fowler
+FABACEAE,Astragalus molybdenus,"rare, JA DB, Fowler"
+FABACEAE,Astragalus robbinsii var. minor,"JA DB, Fowler"
+FABACEAE,Hedysarum occidentale,"JA DB, Fowler"
+FABACEAE,Lupinus argenteus ssp. argenteus,Fowler
+FABACEAE,Lupinus argenteus var. laxiflorus,Fowler
+FABACEAE,Lupinus argenteus var. rubricaulis,Fowler
+FABACEAE,Oxytropis borealis var. viscida,"JA DB, Fowler"
+FABACEAE,Oxytropis campestris,JA DB
+FABACEAE,Oxytropis campestris var. cusickii,Fowler
+FABACEAE,Oxytropis campestris var. spicata,"JA DB, Fowler"
+FABACEAE,Oxytropis deflexa,JA DB
+FABACEAE,Oxytropis deflexa ssp. deflexa,"JA DB, Fowler"
+FABACEAE,Oxytropis deflexa var. foliolosa,Fowler
+FABACEAE,Oxytropis deflexa var. sericea,Fowler
+FABACEAE,Oxytropis monticola,JA 2022
+FABACEAE,Oxytropis parryi,"rare, JA DB, Fowler"
+FABACEAE,Oxytropis podocarpa,"JA DB, Fowler"
+FABACEAE,Oxytropis sericea,JA 2022
+FABACEAE,Oxytropis sericea var. sericea,"JA DB, Fowler"
+FABACEAE,Oxytropis splendens,"JA DB, Fowler"
+FABACEAE,Trifolium attenuatum,"JA DB, Fowler"
+FABACEAE,Trifolium brandegeei,"JA DB, Fowler"
+FABACEAE,Trifolium dasyphyllum,"JA DB, Fowler"
+FABACEAE,Trifolium longipes,JA DB
+FABACEAE,Trifolium nanum,"JA DB, Fowler"
+FABACEAE,Trifolium parryi,JA DB
+FABACEAE,Trifolium parryi ssp. parryi,Fowler
+FABACEAE,Trifolium repens,"introduced, Fowler"
+GENTIANACEAE,Comastoma tenellum,"JA DB, Fowler"
+GENTIANACEAE,Frasera speciosa,"JA DB, Fowler"
+GENTIANACEAE,Gentiana algida,"JA DB, Fowler"
+GENTIANACEAE,Gentiana fremontii,JA DB
+GENTIANACEAE,Gentiana parryi,"JA DB, Fowler"
+GENTIANACEAE,Gentiana prostrata,"JA DB, Fowler"
+GENTIANACEAE,Gentianella amarella ssp. acuta,"JA DB, Fowler"
+GENTIANACEAE,Gentianella heterosepala,"JA DB, Fowler"
+GENTIANACEAE,Gentianopsis barbellata,"JA DB, Fowler"
+GENTIANACEAE,Gentianopsis thermalis,"JA DB, Fowler"
+GENTIANACEAE,Swertia perennis,"JA DB, Fowler"
+GERANIACEAE,Geranium caespitosum,JA DB
+GERANIACEAE,Geranium richardsonii,"JA DB, Fowler"
+GROSSULARIACEAE,Ribes cereum,JA DB
+GROSSULARIACEAE,Ribes cereum var. cereum,Fowler
+GROSSULARIACEAE,Ribes inerme var. inerme,Fowler
+GROSSULARIACEAE,Ribes lacustre,Fowler
+GROSSULARIACEAE,Ribes laxiflorum,JA DB
+GROSSULARIACEAE,Ribes montigenum,"JA DB, Fowler"
+GROSSULARIACEAE,Ribes wolfii,Fowler
+HYDRANGEACEAE,Jamesia americana var. americana,"Tarryalls above treeline, 2023, Fowler"
+ISOETACEAE,Isoetes bolanderi,Fowler
+ISOETACEAE,Isoetes occidentalis,"rare, JA DB"
+JUNCACEAE,Juncus arcticus,Fowler
+JUNCACEAE,Juncus biglumis,"JA DB, Fowler"
+JUNCACEAE,Juncus castaneus,Fowler
+JUNCACEAE,Juncus drummondii,"JA DB, Fowler"
+JUNCACEAE,Juncus hallii,Fowler
+JUNCACEAE,Juncus mertensianus,"JA DB, Fowler"
+JUNCACEAE,Juncus nevadensis,JA DB
+JUNCACEAE,Juncus parryi,"Pojar & MacKinnon, JA DB, Fowler"
+JUNCACEAE,Juncus triglumis,JA DB
+JUNCACEAE,Juncus triglumis ssp. triglumis,Fowler
+JUNCACEAE,Juncus triglumis var. albescens,"JA DB, Fowler"
+JUNCACEAE,Luzula comosa,JA DB
+JUNCACEAE,Luzula parviflora,"JA DB, Fowler"
+JUNCACEAE,Luzula spicata,"JA DB, Fowler"
+JUNCACEAE,Luzula subcapitata,"CO endemic, rare, JA DB, Fowler"
+LILIACEAE,Erythronium grandiflorum ssp. grandiflorum,"JA DB, Fowler"
+LILIACEAE,Gagea serotina,"JA DB, Fowler"
+LINACEAE,Linum lewisii var. lewisii,Fowler
+LYCOPODIACEAE,Huperzia haleakalae,"JA DB, Fowler"
+LYCOPODIACEAE,Lycopodium annotinum,"JA DB, Fowler"
+MELANTHIACEAE,Anticlea elegans,"JA DB, Fowler"
+MELANTHIACEAE,Veratrum californicum,Fowler
+MONTIACEAE,Claytonia lanceolata,"JA DB, Fowler"
+MONTIACEAE,Claytonia megarhiza,"JA DB, Fowler"
+MONTIACEAE,Lewisia pygmaea,"JA DB, Fowler"
+MONTIACEAE,Montia chamissoi,JA DB
+ONAGRACEAE,Epilobium anagallidifolium,"JA DB, Fowler"
+ONAGRACEAE,Epilobium angustifolium,JA DB
+ONAGRACEAE,Epilobium angustifolium ssp. circumvagum,Fowler
+ONAGRACEAE,Epilobium clavatum,"JA DB, Fowler"
+ONAGRACEAE,Epilobium hallianum,"JA DB, Fowler"
+ONAGRACEAE,Epilobium hornemannii,JA DB
+ONAGRACEAE,Epilobium hornemannii ssp. hornemannii,"JA DB, Fowler"
+ONAGRACEAE,Epilobium latifolium,"JA DB, Fowler"
+ONAGRACEAE,Epilobium saximontanum,"JA DB, Fowler"
+OPHIOGLOSSACEAE,Botrychium ascendens,"rare, JA DB"
+OPHIOGLOSSACEAE,Botrychium crenulatum,"rare, JA 2022"
+OPHIOGLOSSACEAE,Botrychium echo,"rare, JA DB, Fowler"
+OPHIOGLOSSACEAE,Botrychium furculatum,"rare, JA DB"
+OPHIOGLOSSACEAE,Botrychium hesperium,Fowler
+OPHIOGLOSSACEAE,Botrychium lanceolatum ssp. lanceolatum,"rare, JA DB, Fowler"
+OPHIOGLOSSACEAE,Botrychium lunaria,Fowler
+OPHIOGLOSSACEAE,Botrychium minganense,"rare, JA DB, Fowler"
+OPHIOGLOSSACEAE,Botrychium neolunaria,"rare, JA DB"
+OPHIOGLOSSACEAE,Botrychium spathulatum,"rare, JA DB"
+OPHIOGLOSSACEAE,Botrychium tunux,"rare, JA DB"
+ORCHIDACEAE,Platanthera aquilonis,Fowler
+ORCHIDACEAE,Platanthera dilatata,JA DB
+ORCHIDACEAE,Platanthera dilatata var. albiflora,JA DB
+ORCHIDACEAE,Platanthera dilatata var. dilatata,JA DB
+ORCHIDACEAE,Platanthera huronensis,JA DB
+ORCHIDACEAE,Platanthera purpurascens,JA DB
+ORCHIDACEAE,Platanthera stricta,Fowler
+OROBANCHACEAE,Castilleja haydenii,"JA DB, Fowler"
+OROBANCHACEAE,Castilleja miniata,JA DB
+OROBANCHACEAE,Castilleja miniata var. miniata,Fowler
+OROBANCHACEAE,Castilleja occidentalis,"JA DB, Fowler"
+OROBANCHACEAE,Castilleja puberula,"rare, JA DB, Fowler"
+OROBANCHACEAE,Castilleja rhexiifolia,"JA DB, Fowler"
+OROBANCHACEAE,Castilleja septentrionalis,Fowler
+OROBANCHACEAE,Orobanche uniflora,JA DB
+OROBANCHACEAE,Pedicularis bracteosa var. paysoniana,"JA DB, Fowler"
+OROBANCHACEAE,Pedicularis groenlandica,"JA DB, Fowler"
+OROBANCHACEAE,Pedicularis parryi,JA DB
+OROBANCHACEAE,Pedicularis parryi ssp. mogollonica,Fowler
+OROBANCHACEAE,Pedicularis parryi ssp. parryi,Fowler
+OROBANCHACEAE,Pedicularis procera,Fowler
+OROBANCHACEAE,Pedicularis racemosa ssp. alba,"JA DB, Fowler"
+OROBANCHACEAE,Pedicularis scopulorum,"JA DB, Fowler"
+PAPAVERACEAE,Corydalis caseana ssp. brandegeei,"rare, JA DB"
+PAPAVERACEAE,Papaver kluanense,"rare, obligate, JA DB, Fowler"
+PHRYMACEAE,Erythranthe guttata,"JA DB, Fowler"
+PHRYMACEAE,Erythranthe tilingii,JA DB
+PINACEAE,Abies lasiocarpa var. arizonica,Fowler
+PINACEAE,Abies lasiocarpa var. bifolia,JA DB
+PINACEAE,Picea engelmannii ssp. engelmannii,"JA DB, Fowler"
+PINACEAE,Picea pungens,Fowler
+PINACEAE,Pinus aristata,"JA DB, Fowler"
+PINACEAE,Pinus contorta var. latifolia,"JA DB, Fowler"
+PINACEAE,Pinus flexilis,JA DB
+PLANTAGINACEAE,Besseya alpina,"JA DB, Fowler"
+PLANTAGINACEAE,Besseya ritteriana,"CO endemic, rare, JA DB, Fowler"
+PLANTAGINACEAE,Chionophila jamesii,"rare, JA DB, Fowler"
+PLANTAGINACEAE,Penstemon crandallii,JA DB
+PLANTAGINACEAE,Penstemon crandallii ssp. crandallii,"JA DB, Fowler"
+PLANTAGINACEAE,Penstemon crandallii ssp. procumbens,"rare, JA DB"
+PLANTAGINACEAE,Penstemon hallii,"CO endemic, rare, JA DB, Fowler"
+PLANTAGINACEAE,Penstemon harbourii,"CO endemic, rare, JA DB, Fowler"
+PLANTAGINACEAE,Penstemon procerus var. procerus,"JA DB, Fowler"
+PLANTAGINACEAE,Penstemon rydbergii,"JA DB, Fowler"
+PLANTAGINACEAE,Penstemon saxosorum,Fowler
+PLANTAGINACEAE,Penstemon whippleanus,"JA DB, Fowler"
+PLANTAGINACEAE,Plantago tweedyi,Fowler
+PLANTAGINACEAE,Veronica plantaginea,Fowler
+PLANTAGINACEAE,Veronica wormskjoldii,"JA DB, Fowler"
+PLUMBAGINACEAE,Armeria maritima ssp. sibirica,"rare, obligate alpine, JA DB, Fowler"
+POACEAE,Agrostis exarata,"NSE, JA 2022"
+POACEAE,Agrostis idahoensis,JA DB
+POACEAE,Agrostis mertensii,"JA DB, Fowler"
+POACEAE,Agrostis scabra,"JA DB, Fowler"
+POACEAE,Agrostis variabilis,"JA DB, Fowler"
+POACEAE,Alopecurus magellanicus,Fowler
+POACEAE,Alopecurus pratensis,Fowler
+POACEAE,Anthoxanthum nitens,"JA DB, Fowler"
+POACEAE,Blepharoneuron tricholepis,Fowler
+POACEAE,Bromus ciliatus,"JA DB, Fowler"
+POACEAE,Bromus inermis,"introduced, Fowler"
+POACEAE,Bromus porteri,Fowler
+POACEAE,Bromus pumpellianus,"JA DB, Fowler"
+POACEAE,Calamagrostis canadensis,"JA DB, Fowler"
+POACEAE,Calamagrostis montanensis,JA DB
+POACEAE,Calamagrostis purpurascens,"JA DB, Fowler"
+POACEAE,Danthonia intermedia,"JA DB, Fowler"
+POACEAE,Danthonia parryi,"JA DB, Fowler"
+POACEAE,Deschampsia cespitosa,JA DB
+POACEAE,Deschampsia cespitosa ssp. cespitosa,Fowler
+POACEAE,Deschampsia cespitosa ssp. septentrionalis,JA DB
+POACEAE,Elymus albicans,JA DB
+POACEAE,Elymus bakeri,Fowler
+POACEAE,Elymus scribneri,"JA DB, Fowler"
+POACEAE,Elymus trachycaulus,JA DB
+POACEAE,Elymus trachycaulus ssp. trachycaulus,Fowler
+POACEAE,Elymus violaceus,"JA DB, Fowler"
+POACEAE,Eriocoma lettermanii,"JA DB, Fowler"
+POACEAE,Eriocoma nelsonii,JA DB
+POACEAE,Eriocoma nelsonii ssp. dorei,Fowler
+POACEAE,Festuca baffinensis,"rare, obligate, JA DB, Fowler"
+POACEAE,Festuca brachyphylla ssp. coloradensis,"JA DB, Fowler"
+POACEAE,Festuca earlei,"JA DB, Fowler"
+POACEAE,Festuca hallii,"rare, JA DB"
+POACEAE,Festuca idahoensis,"JA DB, Fowler"
+POACEAE,Festuca minutiflora,"JA DB, Fowler"
+POACEAE,Festuca rubra,Fowler
+POACEAE,Festuca rubra ssp. rubra,JA DB
+POACEAE,Festuca saximontana var. saximontana,"JA DB, Fowler"
+POACEAE,Festuca thurberi,"JA DB, Fowler"
+POACEAE,Graphephorum wolfii,Fowler
+POACEAE,Helictochloa hookeri,"JA DB, Fowler"
+POACEAE,Helictotrichon mortonianum,"JA DB, Fowler"
+POACEAE,Koeleria macrantha,"JA DB, Fowler"
+POACEAE,Koeleria spicata,"JA DB, Fowler"
+POACEAE,Muhlenbergia filiformis,JA DB
+POACEAE,Muhlenbergia tricholepis,JA DB
+POACEAE,Phippsia algida,"rare, obligate, JA DB, Fowler"
+POACEAE,Phleum alpinum,"JA DB, Fowler"
+POACEAE,Piptatheropsis exigua,JA DB
+POACEAE,Poa alpina,JA DB
+POACEAE,Poa alpina ssp. alpina,Fowler
+POACEAE,Poa annua,Fowler
+POACEAE,Poa arctica,JA DB
+POACEAE,Poa arctica ssp. aperta,"JA DB, Fowler"
+POACEAE,Poa arctica ssp. arctica,"JA DB, Fowler"
+POACEAE,Poa arctica ssp. grayana,"JA DB, Fowler"
+POACEAE,Poa arida,Fowler
+POACEAE,Poa cusickii,JA DB
+POACEAE,Poa cusickii ssp. epilis,"JA DB, Fowler"
+POACEAE,Poa cusickii ssp. pallida,"JA DB, Fowler"
+POACEAE,Poa fendleriana,"JA DB, Fowler"
+POACEAE,Poa fendleriana ssp. fendleriana,JA DB
+POACEAE,Poa fendleriana ssp. longiligula,JA DB
+POACEAE,Poa glauca,JA DB
+POACEAE,Poa glauca ssp. glauca,"JA DB, Fowler"
+POACEAE,Poa glauca ssp. rupicola,"JA DB, Fowler"
+POACEAE,Poa interior,"JA DB, Fowler"
+POACEAE,Poa leptocoma,"JA DB, Fowler"
+POACEAE,Poa lettermanii,"Fowler, Fowler"
+POACEAE,Poa palustris,Fowler
+POACEAE,Poa pattersonii,"obligate, JA 2022, JA DB, Fowler"
+POACEAE,Poa pratensis,Fowler
+POACEAE,Poa reflexa,"JA DB, Fowler"
+POACEAE,Poa secunda,JA DB
+POACEAE,Poa secunda ssp. juncifolia,"JA DB, Fowler"
+POACEAE,Poa secunda ssp. secunda,"JA DB, Fowler"
+POACEAE,Poa stenantha,JA DB
+POACEAE,Poa wheeleri,"JA DB, Fowler"
+POACEAE,Podagrostis humilis,"JA DB, Fowler"
+POACEAE,Ptilagrostis porteri,"CO endemic, rare, JA DB, Fowler"
+POACEAE,Vahlodea atropurpurea,"JA DB, Fowler"
+POLEMONIACEAE,Aliciella pinnatifida,"JA DB, Fowler"
+POLEMONIACEAE,Aliciella sedifolia,"CO endemic, rare, obligate alpine, JA DB, Fowler"
+POLEMONIACEAE,Ipomopsis globularis,"CO endemic, rare, obligate alpine, JA DB"
+POLEMONIACEAE,Ipomopsis spicata ssp. capitata,Fowler
+POLEMONIACEAE,Leptosiphon nuttallii ssp. nuttallii,Fowler
+POLEMONIACEAE,Phlox condensata,"JA DB, Fowler"
+POLEMONIACEAE,Phlox pulvinata,"JA DB, Fowler"
+POLEMONIACEAE,Polemonium brandegeei,"JA DB, Fowler"
+POLEMONIACEAE,Polemonium confertum,"CO endemic, JA DB, Fowler"
+POLEMONIACEAE,Polemonium foliosissimum,JA DB
+POLEMONIACEAE,Polemonium pulcherrimum ssp. delicatum,"JA DB, Fowler"
+POLEMONIACEAE,Polemonium viscosum,"JA DB, Fowler"
+POLYGONACEAE,Bistorta bistortoides,"JA DB, Fowler"
+POLYGONACEAE,Bistorta vivipara,"JA DB, Fowler"
+POLYGONACEAE,Eriogonum arcuatum,JA DB
+POLYGONACEAE,Eriogonum arcuatum var. xanthum,"CO endemic, JA DB, Fowler"
+POLYGONACEAE,Eriogonum coloradense,"CO endemic, rare, JA DB, Fowler"
+POLYGONACEAE,Eriogonum flavum var. flavum,Fowler
+POLYGONACEAE,Eriogonum umbellatum,JA DB
+POLYGONACEAE,Eriogonum umbellatum var. aureum,Fowler
+POLYGONACEAE,Eriogonum umbellatum var. majus,"JA DB, Fowler"
+POLYGONACEAE,Eriogonum umbellatum var. porteri,JA DB
+POLYGONACEAE,Koenigia islandica,"rare, JA DB, Fowler"
+POLYGONACEAE,Oxyria digyna,"JA DB, Fowler"
+POLYGONACEAE,Polygonum aviculare,Fowler
+POLYGONACEAE,Polygonum douglasii,"JA DB, Fowler"
+POLYGONACEAE,Rumex acetosella,"introduced, Fowler"
+POLYGONACEAE,Rumex densiflorus,"JA DB, Fowler"
+POLYGONACEAE,Rumex utahensis,Fowler
+POLYPODIACEAE,Polystichum lonchitis,Fowler
+PRIMULACEAE,Androsace lehmanniana,JA DB
+PRIMULACEAE,Androsace septentrionalis,JA DB
+PRIMULACEAE,Primula angustifolia,"JA DB, Fowler"
+PRIMULACEAE,Primula parryi,"JA DB, Fowler"
+PRIMULACEAE,Primula pauciflora,JA DB
+PTERIDACEAE,Cryptogramma acrostichoides,"JA DB, Fowler"
+PTERIDACEAE,Hemionitis breweri,Fowler
+RANUNCULACEAE,Aconitum columbianum ssp. columbianum,"JA DB, Fowler"
+RANUNCULACEAE,Actaea rubra,"JA DB, Fowler"
+RANUNCULACEAE,Anemonastrum zephyrum,"JA DB, Fowler"
+RANUNCULACEAE,Anemone multifida,Fowler
+RANUNCULACEAE,Anemone multifida var. multifida,"JA DB, Fowler"
+RANUNCULACEAE,Anemone multifida var. stylosa,Fowler
+RANUNCULACEAE,Anemone parviflora,Fowler
+RANUNCULACEAE,Aquilegia coerulea,JA DB
+RANUNCULACEAE,Aquilegia coerulea var. coerulea,"JA DB, Fowler"
+RANUNCULACEAE,Aquilegia elegantula,"JA DB, Fowler"
+RANUNCULACEAE,Aquilegia saximontana,"CO endemic, rare, JA DB, Fowler"
+RANUNCULACEAE,Caltha chionophila,"JA DB, Fowler"
+RANUNCULACEAE,Delphinium alpestre,"rare, JA DB, Fowler"
+RANUNCULACEAE,Delphinium barbeyi,"JA DB, Fowler"
+RANUNCULACEAE,Delphinium ramosum,Fowler
+RANUNCULACEAE,Pulsatilla nuttalliana,JA DB
+RANUNCULACEAE,Ranunculus abortivus,Fowler
+RANUNCULACEAE,Ranunculus adoneus,"JA DB, Fowler"
+RANUNCULACEAE,Ranunculus alismifolius var. montanus,"JA DB, Fowler"
+RANUNCULACEAE,Ranunculus arcticus,JA DB
+RANUNCULACEAE,Ranunculus cardiophyllus,JA DB
+RANUNCULACEAE,Ranunculus eschscholtzii,Fowler
+RANUNCULACEAE,Ranunculus eschscholtzii var. eschscholtzii,JA DB
+RANUNCULACEAE,Ranunculus gelidus,"rare, obligate, JA DB, Fowler"
+RANUNCULACEAE,Ranunculus hyperboreus,"JA DB, Fowler"
+RANUNCULACEAE,Ranunculus inamoenus var. inamoenus,"JA DB, Fowler"
+RANUNCULACEAE,Ranunculus macauleyi,"JA DB, Fowler"
+RANUNCULACEAE,Ranunculus pedatifidus,Fowler
+RANUNCULACEAE,Ranunculus pygmaeus,"JA DB, Fowler"
+RANUNCULACEAE,Thalictrum alpinum,"JA DB, Fowler"
+RANUNCULACEAE,Thalictrum fendleri,JA DB
+RANUNCULACEAE,Trautvetteria caroliniensis,"JA DB, rare, JA 2022"
+RANUNCULACEAE,Trollius laxus ssp. albiflorus,"JA DB, Fowler"
+ROSACEAE,Dasiphora fruticosa,"JA DB, Fowler"
+ROSACEAE,Dryas hookeriana,"JA DB, Fowler"
+ROSACEAE,Drymocallis glabrata,Fowler
+ROSACEAE,Drymocallis glandulosa,JA DB
+ROSACEAE,Fragaria vesca,Fowler
+ROSACEAE,Fragaria virginiana,"JA DB, Fowler"
+ROSACEAE,Geum macrophyllum var. perincisum,Fowler
+ROSACEAE,Geum rossii var. turbinatum,"Fertig-obligate, JA DB, Fowler"
+ROSACEAE,Geum triflorum,JA DB
+ROSACEAE,Geum triflorum var. ciliatum,Fowler
+ROSACEAE,Geum triflorum var. triflorum,Fowler
+ROSACEAE,Holodiscus discolor var. dumosus,Fowler
+ROSACEAE,Potentilla concinna,JA DB
+ROSACEAE,Potentilla concinna var. concinna,Fowler
+ROSACEAE,Potentilla diversifolia,Fowler
+ROSACEAE,Potentilla glaucophylla var. glaucophylla,JA DB
+ROSACEAE,Potentilla gordonii,"JA DB, Fowler"
+ROSACEAE,Potentilla gracilis var. fastigiata,Fowler
+ROSACEAE,Potentilla hippiana,Fowler
+ROSACEAE,Potentilla hookeriana,Fowler
+ROSACEAE,Potentilla nivea,JA DB
+ROSACEAE,Potentilla ovina,JA DB
+ROSACEAE,Potentilla ovina var. decurrens,JA DB
+ROSACEAE,Potentilla ovina var. ovina,"JA DB, Fowler"
+ROSACEAE,Potentilla pensylvanica,"JA DB, Fowler"
+ROSACEAE,Potentilla plattensis,Fowler
+ROSACEAE,Potentilla pulcherrima,"JA DB, Fowler"
+ROSACEAE,Potentilla saximontana,"JA DB, Fowler"
+ROSACEAE,Potentilla subjuga,"JA DB, Fowler"
+ROSACEAE,Potentilla uniflora,Fowler
+ROSACEAE,Rosa blanda,JA DB
+ROSACEAE,Rosa woodsii,JA 2022
+ROSACEAE,Rubus idaeus ssp. strigosus,"JA DB, Fowler"
+ROSACEAE,Sibbaldia procumbens,"JA DB, Fowler"
+RUBIACEAE,Galium boreale,"JA DB, Fowler"
+SALICACEAE,Populus balsamifera,JA DB
+SALICACEAE,Populus tremuloides,"JA DB, Fowler"
+SALICACEAE,Salix brachycarpa var. brachycarpa,"JA DB, Fowler"
+SALICACEAE,Salix calcicola,"rare, JA DB, Fowler"
+SALICACEAE,Salix cascadensis,"rare, JA DB, Fowler"
+SALICACEAE,Salix glauca,JA DB
+SALICACEAE,Salix glauca var. villosa,Fowler
+SALICACEAE,Salix monticola,"JA DB, Fowler"
+SALICACEAE,Salix nivalis,"JA DB, Fowler"
+SALICACEAE,Salix petrophila,"JA DB, Fowler"
+SALICACEAE,Salix planifolia,"JA DB, Fowler"
+SAXIFRAGACEAE,Chrysosplenium tetrandrum,"JA DB, Fowler"
+SAXIFRAGACEAE,Heuchera bracteata,"JA DB, Fowler"
+SAXIFRAGACEAE,Heuchera hallii,"JA DB, Fowler"
+SAXIFRAGACEAE,Heuchera parvifolia,"JA DB, Fowler"
+SAXIFRAGACEAE,Micranthes foliolosa,"rare, obligate alpine, JA DB, Fowler"
+SAXIFRAGACEAE,Micranthes odontoloma,"JA DB, Fowler"
+SAXIFRAGACEAE,Micranthes oregana,"JA DB, Fowler"
+SAXIFRAGACEAE,Micranthes rhomboidea,"JA DB, Fowler"
+SAXIFRAGACEAE,Ozomelis stauropetala,JA DB
+SAXIFRAGACEAE,Pectiantia pentandra, 
+SAXIFRAGACEAE,Saxifraga adscendens,"JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga bronchialis ssp. austromontana,"JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga cernua,"JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga cespitosa,"JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga chrysantha,"JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga debilis,"JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga flagellaris ssp. crandallii,"obligate, JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga hirculus,"JA DB, Fowler"
+SAXIFRAGACEAE,Saxifraga hyperborea,JA DB? due to taxon split?
+SAXIFRAGACEAE,Telesonix jamesii,"rare, JA DB, Fowler"
+SELAGINELLACEAE,Selaginella densa,"JA DB, Fowler"
+SELAGINELLACEAE,Selaginella weatherbiana,Fowler
+TYPHACEAE,Sparganium angustifolium,JA DB
+VIBURNACEAE,Adoxa moschatellina,"JA DB, Fowler"
+VIBURNACEAE,Sambucus racemosa,JA DB
+VIBURNACEAE,Sambucus racemosa ssp. racemosa,JA DB
+VIBURNACEAE,Sambucus racemosa var. melanocarpa,JA DB
+VIBURNACEAE,Sambucus racemosa var. microbotrys,Fowler
+VIOLACEAE,Viola adunca,"JA DB, Fowler"
+VIOLACEAE,Viola biflora,"JA DB, Fowler"
+VIOLACEAE,Viola palustris,"JA DB, Fowler"
+VIOLACEAE,Viola praemorsa,Fowler
